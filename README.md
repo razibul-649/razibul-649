@@ -1,4 +1,4 @@
-![I am a web devloper](https://media-exp1.licdn.com/dms/image/C5616AQHQLHNULqhPfA/profile-displaybackgroundimage-shrink_350_1400/0/1660924050559?e=1666224000&v=beta&t=Fl1QTJYT8h_iARBNKFtMLEYMfanos-YR3etyEeTxYq8)
+![I am a web devloper](https://media-exp1.licdn.com/dms/image/C5622AQFGgruTJXFnDw/feedshare-shrink_2048_1536/0/1660925311013?e=1663804800&v=beta&t=BV7wTYtnrqR50eKY6PnowODtaUZ0JWNhboNOjrE1ftE)
 ### Hi there 👋, I'm Razibul 
 #### I am a web devloper
 
