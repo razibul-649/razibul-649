@@ -1,6 +1,6 @@
 ![I am a web devloper](https://media-exp1.licdn.com/dms/image/C5616AQHQLHNULqhPfA/profile-displaybackgroundimage-shrink_350_1400/0/1660924050559?e=1671062400&v=beta&t=8lKaPLJ5BJNEBipu1LDm_kiwLq_OYHoLo4We38Bt-iw)
 ### Hi there 👋, I'm Razibul 
-#### I am a web devloper
+#### I am a web developer
 
 
 I am a fullstak web developer. My passion is coding. I always trying to learn a new technology and incresing my skills.
