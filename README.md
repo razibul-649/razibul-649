@@ -5,10 +5,10 @@
 
 I am a fullstak web developer. My passion is coding. I always trying to learn a new technology and incresing my skills.
 
-Skills: C / C# /C++ / PYTHON / REACT / BUSTRAP/JS / HTML / CSS / JAVA / PHP / JQUERY / LARAVEL/.NET/MySQL/NODE JS/MONGODB/DJANGO.
+Skills: C / C# /C++ /LARAVEL/ PYTHON / REACT / BUSTRAP/JS / HTML / CSS / JAVA / PHP / JQUERY/ MySQL/NODE JS/MONGODB/FIREBASE
 
 - 🔭 I’m currently working on dsdpt.com 
-- 🌱 I’m currently learning Laravel and React 
+- 🌱 I’m currently developing core skills Laravel and React. 
 - 👯 I’m looking to collaborate on Big Web  Development Project  
 - 🤔 I’m looking for help with A Begineer Web Learners 
 - 💬 Ask me about Programming Lelateted Any Query  
