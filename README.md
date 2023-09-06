@@ -5,7 +5,7 @@
 
 I am a fullstak web developer. My passion is coding. I always trying to learn a new technology and incresing my skills.
 
-Skills: C / C# /C++ /LARAVEL/ PYTHON / REACT / BOOTSTRAP/JS / HTML / CSS / JAVA / PHP / JQUERY/ SASS/ TYPESCRIPT MySQL/FIREBASE
+Skills: C / C# /C++ /LARAVEL/ PYTHON / REACT / BOOTSTRAP/JS / HTML / CSS / JAVA / PHP / JQUERY/ SASS/ TYPESCRIPT/ MySQL/FIREBASE
 
 - 🔭 I’m currently working on dsdpt.com 
 - 🌱 I’m currently developing core skills Laravel and React. 
